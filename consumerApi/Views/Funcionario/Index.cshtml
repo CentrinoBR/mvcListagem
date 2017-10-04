@@ -1,0 +1,60 @@
+﻿@model IEnumerable<consumerApi.Models.Funcionario>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Funcao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Turno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HorasTrabalhadas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValorDaHora)
+        </th>
+        <th>
+            Salário
+        </th>
+        <th>
+            Valor da Venda
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Funcao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Turno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HorasTrabalhadas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValorDaHora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SalarioFinal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValorVenda)
+        </td>
+    </tr>
+}
+
+</table>

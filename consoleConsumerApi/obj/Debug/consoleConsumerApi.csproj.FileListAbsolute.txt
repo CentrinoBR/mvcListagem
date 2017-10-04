@@ -1,0 +1,12 @@
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\consoleConsumerApi.exe.config
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\consoleConsumerApi.exe
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\consoleConsumerApi.pdb
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\Newtonsoft.Json.dll
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\Newtonsoft.Json.xml
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\obj\Debug\consoleConsumerApi.csproj.CoreCompileInputs.cache
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\obj\Debug\consoleConsumerApi.exe
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\obj\Debug\consoleConsumerApi.pdb
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\HtmlAgilityPack.dll
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\HtmlAgilityPack.pdb
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\bin\Debug\HtmlAgilityPack.xml
+c:\users\lucia\source\repos\consumerApi\consoleConsumerApi\obj\Debug\consoleConsumerApi.csprojResolveAssemblyReference.cache
